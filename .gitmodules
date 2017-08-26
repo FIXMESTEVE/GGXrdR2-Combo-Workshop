@@ -1,3 +1,6 @@
 [submodule "Direct3DHook"]
 	path = Direct3DHook
 	url = https://github.com/spazzarama/Direct3DHook.git
+[submodule "GGRev2ComboRecipeManager"]
+	path = GGRev2ComboRecipeManager
+	url = https://github.com/WesselKuipers/GGRev2ComboRecipeManager.git
