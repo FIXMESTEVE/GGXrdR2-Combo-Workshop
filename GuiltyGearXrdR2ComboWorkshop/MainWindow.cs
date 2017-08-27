@@ -58,9 +58,6 @@ namespace GGXrdR2ComboWorkshop
             string exeName = "GuiltyGearXrd";
 
             Process[] processes = Process.GetProcessesByName(exeName);
-            Process[] processesDebug = Process.GetProcesses();
-            foreach (Process process in processesDebug)
-                System.Diagnostics.Debug.WriteLine(process.ProcessName);
             foreach (Process process in processes)
             {
                 // Simply attach to the first one found.
