@@ -3,7 +3,3 @@
 	url = https://github.com/WesselKuipers/GGRev2ComboRecipeManager.git
 
 
-[submodule "GGXrdR2-Combo-Workshop"]
-	path = GGXrdR2-Combo-Workshop
-	url = https://github.com/s4e-tom/GGXrdR2-Combo-Workshop.git
-	branch = master
